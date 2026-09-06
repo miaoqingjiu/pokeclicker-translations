@@ -1,15 +1,15 @@
 {
   "type": {
-    "NEW": "新",
-    "SHINY": "闪光",
-    "CAUGHT": "捕捉",
+    "NEW": "新的",
+    "SHINY": "闪光的",
+    "CAUGHT": "可捕捉",
     "ESCAPED": "挣脱",
-    "ROAMER": "漫游",
+    "ROAMER": "漫游的",
     "ACHIEVE": "成就",
     "QUEST": "任务",
     "FOUND": "发现",
     "FRONTIER": "边境",
-    "WANDER": "游荡",
+    "WANDER": "游荡的",
     "OTHER": "其他"
   },
   "earnedAchievement": "获得成就\"{{ name }}\".",
